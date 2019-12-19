@@ -1,6 +1,4 @@
 # OpenglTriangularization
-Work in progress. So far uses glew, freeglut, glm and OBJ_Loader
-
 <img src="/gifs/camera.gif?raw=true">
 <img src="/gifs/instancing.gif?raw=true">
 	1 mil+ instances of triangle<br /><br />
